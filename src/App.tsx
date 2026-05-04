@@ -167,7 +167,7 @@ export default function App() {
           >
             <div className="relative mb-4">
               <img 
-                src="/logo.png" 
+                src="https://raw.githubusercontent.com/ahmathmusharraf/The23fx-Trading/refs/heads/main/The23fx.png" 
                 alt="The 23fx Logo" 
                 className="h-24 md:h-32 object-contain drop-shadow-[0_0_15px_rgba(255,255,255,0.2)]"
                 onError={(e) => {
